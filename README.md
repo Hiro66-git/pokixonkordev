@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🔍 PokiXonkorDev
+#  PokiXonkorDev
 
 ### Advanced Web Content Discovery Tool for Purple Team Operations
 
